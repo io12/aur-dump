@@ -1,2 +1,2 @@
 # aur-dump
-Script to download the entire AUR (ArchLinux User Repository) [WIP]
+Script to download the entire AUR (ArchLinux User Repository)
